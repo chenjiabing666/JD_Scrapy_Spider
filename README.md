@@ -1,0 +1,1 @@
+# JD_Scrapy_Spider是使用scrapy框架抓取京东商城数据，使用mysql数据库存储
